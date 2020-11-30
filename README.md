@@ -74,3 +74,7 @@ numerous_figure_handle = preprocess_enumerate(X,Y,default_paras);
 > You'll get a boxplot, where the RMSEP of each trial were given. 
 An ideal method produces low RMSEP, and performs stable. In this case, the optimization of preprocessing has less performance gain. 
 You could try the corn dataset (http://www.eigenvector.com/data/Corn/index.html) and you will find significant different even if only SG is considered.
+
+
+Please cite this paper if you found this repositary is useful:
+Jiao, Y, Li, Z, Chen, X, Fei, S. Preprocessing methods for near‐infrared spectrum calibration. Journal of Chemometrics. 2020; 34:e3306. https://doi.org/10.1002/cem.3306
